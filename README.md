@@ -62,9 +62,3 @@ Frontend Developer | API Explorer | Building Projects to Learn
 
 ---
 
-## 🗺️ Future Enhancements
-
-- 🌡️ Add 5-day weather forecast  
-- 🌗 Include dark/light mode toggle  
-- 💾 Save recent searches using LocalStorage  
-
